@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusanvaidya)](https://github.com/anuraghazra/github-readme-stats)
-
 <h1 align="center">Hi 👋, I'm Rusan Vaidya</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
