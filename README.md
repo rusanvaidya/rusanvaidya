@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusanvaidya)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Rusan Vaidya</h1>
@@ -8,10 +6,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rusanvaidya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rusanvaidya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asdasd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdasd" height="30" width="40" /></a>
-<a href="https://fb.com/asdsadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asdsadas" height="30" width="40" /></a>
-<a href="https://instagram.com/asdasdsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asdasdsad" height="30" width="40" /></a>
-<a href="https://discord.gg/asdsadasd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdsadasd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rusan-vaidya-77bb161a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asdasd" height="30" width="40" /></a>
+<a href="https://fb.com/rusanvaidya7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asdsadas" height="30" width="40" /></a>
+<a href="https://instagram.com/rusanvaidya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asdasdsad" height="30" width="40" /></a>
+<a href="https://discord.gg/ru7an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdsadasd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
