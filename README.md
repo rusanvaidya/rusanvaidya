@@ -15,11 +15,11 @@
 
 <h1>Projects Experiences</h1>
 <ul>
-  <li><a hred="rujanbaidya.com.np">Portfolio</a></li>
-  <li><a href="healingrainbownepal.com.np">Healing Rainbow Nepal Pvt Ltd</a></li>
-  <li><a href="footmandu.herokuapp.com">Footmandu Ecommerce Website</a></li>
-  <li><a href="pariyojana.herokuapp.com">Project Document Management System</a></li>
-  <li><a href="rusanvaidya.github.io/vaidyapaints">Business Promotion Website</a></li>
+  <li><a href="https://rujanbaidya.com.np">Portfolio</a></li>
+  <li><a href="https://healingrainbownepal.com.np">Healing Rainbow Nepal Pvt Ltd</a></li>
+  <li><a href="https://footmandu.herokuapp.com">Footmandu Ecommerce Website</a></li>
+  <li><a href="https://pariyojana.herokuapp.com">Project Document Management System</a></li>
+  <li><a href="https://rusanvaidya.github.io/vaidyapaints">Business Promotion Website</a></li>
 </ul>
 
   
