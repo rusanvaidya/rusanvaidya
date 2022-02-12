@@ -23,4 +23,4 @@
   <li><a href="https://rusanvaidya.github.io/vaidyapaints">Business Promotion Website</a></li>
 </ul>
 
-  
+  ![Rusan's github stats](https://github-readme-stats.vercel.app/api?username=rusanvaidya&show_icons=true&theme=tokyonight)
