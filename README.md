@@ -16,11 +16,9 @@
 
 <h1>Projects Experiences</h1>
 <ul>
-  <li><a href="https://rujanbaidya.com.np">Portfolio</a></li>
+  <li><a href="https://rujanbaidya.com.np">Portfolio - Rujan Baidya</a></li>
   <li><a href="https://healingrainbownepal.com.np">Healing Rainbow Nepal Pvt Ltd</a></li>
-  <li><a href="https://footmandu.herokuapp.com">Footmandu Ecommerce Website</a></li>
-  <li><a href="https://pariyojana.herokuapp.com">Project Document Management System</a></li>
-  <li><a href="https://rusanvaidya.github.io/vaidyapaints">Business Promotion Website</a></li>
+  <li><a href="https://rusanvaidya.github.io/vaidyapaints">Business Promotion Website - Vaidya Paints</a></li>
 </ul>
 
   ![Rusan's github stats](https://github-readme-stats.vercel.app/api?username=rusanvaidya&show_icons=true&theme=tokyonight)
